@@ -3,7 +3,7 @@
 ![GitHub license](https://img.shields.io/github/license/souzafcharles/Clojure-Functional-Programming)
 ![GitHub last commit](https://img.shields.io/github/last-commit/souzafcharles/Clojure-Functional-Programming)
 
-# λ Course: Clojure: Introduction to Functional Programming.
+# λ Clojure: Introduction to Functional Programming
 
 ▶️ Project developed based on tutorials by **MSc. Marcio Frayze David** - [Udemy, Inc.](https://www.udemy.com/)
 
@@ -14,10 +14,10 @@
 
 ## Course Sections
 
-- Section 01 | [Introduction]()
+- Section 01 | [Introduction](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_A1_Introduction)
 - Section 02 | Immutability
 - Section 03 | Pure Functions
-- Section 04 | Understanding let
+- Section 04 | Understanding `let`
 - Section 05 | Conditionals
 - Section 06 | Recommended Text Editors and IDEs
 - Section 07 | Introduction to Automated Testing
