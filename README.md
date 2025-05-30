@@ -17,7 +17,7 @@
 - Section 01 | [Introduction](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_A1_Introduction)
 - Section 02 | [Immutability](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_B2_Immutability)
 - Section 03 | [Pure Functions](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_C3_Pure_Functions)
-- Section 04 | Understanding `let`
+- Section 04 | [Understanding `let`]((https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_D4_Understanding_let)
 - Section 05 | Conditionals
 - Section 06 | Recommended Text Editors and IDEs
 - Section 07 | Introduction to Automated Testing
