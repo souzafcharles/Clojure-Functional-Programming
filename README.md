@@ -19,8 +19,8 @@
 - Section 03 | [Pure Functions](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_C3_Pure_Functions)
 - Section 04 | [Understanding `let`](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_D4_Understanding_let)
 - Section 05 | [Conditionals](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_E5_Conditionals)
-- Section 06 | Recommended Text Editors and IDEs
-- Section 07 | [Introduction to Automated Testing (TDD)](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_G07 _Introduction_to_Automated_Testing_TDD)
+- Section 06 | [Recommended Text Editors and IDEs]()
+- Section 07 | [Introduction to Automated Testing - TDD](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_G07_Introduction_to_Automated_Testing_TDD)
 - Section 08 | The Differences Between True, False, and Truthy/Falsey
 - Section 09 | More on Vectors
 - Section 10 | Dynamic Typing and Type Hinting
