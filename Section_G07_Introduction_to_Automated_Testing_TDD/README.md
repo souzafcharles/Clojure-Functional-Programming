@@ -22,7 +22,7 @@ lein new app traning-clojure-codes
 
 ```bash
 cd traning-clojure-codes
-```bash
+```
 
 - Then, to execute your Clojure application test (TDD), use the command:
 
