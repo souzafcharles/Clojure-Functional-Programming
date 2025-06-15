@@ -17,13 +17,14 @@
 
 ### Example Inputs and Outputs:
 
-| **Test Case Description**                       | **Input (Function Call: `(delivery-fee value)`)** | **Expected Output**                                                     |
+| **Test Case: Valid Inputs**                     | **Input (Function Call: `(delivery-fee value)`)** | **Expected Output**                                                     |
 | :---------------------------------------------- | :------------------------------------------------ | :---------------------------------------------------------------------- |
-| **Valid Inputs**                                |                                                   |                                                                         |
 | Purchase value up to 100                        | `(delivery-fee 100)`                              | `15`                                                                    |
 | Purchase value greater than 100, up to 200      | `(delivery-fee 200)`                              | `5`                                                                     |
 | Purchase value greater than 200                 | `(delivery-fee 200.01)`                           | `0`                                                                     |
-| **Invalid Inputs (Exceptions Expected)**        |                                                   |                                                                         |
+
+| **Test Case: Invalid Inputs**                   | **Input (Function Call: `(delivery-fee value)`)** | **Expected Output**                                                     |
+| :---------------------------------------------- | :------------------------------------------------ | :---------------------------------------------------------------------- |
 | Non-numeric value                               | `(delivery-fee "abc")`                            | `IllegalArgumentException` with message "The value must be a number."   |
 | Null value                                      | `(delivery-fee nil)`                              | `IllegalArgumentException` with message "The value must be a number."   |
 | Negative value                                  | `(delivery-fee -10)`                              | `IllegalArgumentException` with message "The value cannot be negative." |
