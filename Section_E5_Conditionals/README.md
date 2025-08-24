@@ -1,11 +1,21 @@
 # Problem Statement Example 01
 
-**Instructions**: Devise a routine that calculates the income tax based on the following criteria: salaries at or below £1000 are exempt from tax; salaries exceeding £1000 but below £2000 are subject to a 10% tax rate; and salaries at or above £2000 incur a 20% tax rate.
+**Instructions**:  
+Devise a routine that calculates the final salary based on the following criteria:  
+- Salaries at or below 1000 (GBP) remain unchanged.  
+- Salaries exceeding 1000 (GBP) but below 2000 (GBP) receive a 10% increase.  
+- Salaries at or above 2000 (GBP) receive a 20% increase.  
+
+You can compile and run this code online at: [https://onecompiler.com/clojure](https://onecompiler.com/clojure)
+
+---
 
 ### Example Inputs and Outputs
 
-| **Input (Salary)** | **Output (Tax Amount)** |
-|--------------------|-------------------------|
-| £950.00            | £0.00                   |
-| £1500.00           | £150.00                 |
-| £2200.00           | £440.00                 |
+| **Input (Salary)** | **Output (Final Salary)** |
+|---------------------|----------------------------|
+| 1000.00 (GBP)       | 1000.00 (GBP)              |
+| 1500.00 (GBP)       | 1650.00 (GBP)              |
+| 2000.00 (GBP)       | 2400.00 (GBP)              |
+
+---
