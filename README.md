@@ -21,7 +21,7 @@
 - Section 05 | [Conditionals](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_E5_Conditionals)
 - Section 06 | [Recommended Text Editors and IDEs]()
 - Section 07 | [Introduction to Automated Testing - TDD](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_G07_Introduction_to_Automated_Testing_TDD)
-- Section 08 | The Differences Between True, False, and Truthy/Falsey
+- Section 08 | [The Differences Between True, False, and Truthy/Falsey](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_H08_The_Differences_Between_True_False_and_TruthyFalsey)
 - Section 09 | More on Vectors
 - Section 10 | Dynamic Typing and Type Hinting
 - Section 11 | Namespaces, Symbols, and Private Functions
