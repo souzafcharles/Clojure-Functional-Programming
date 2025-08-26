@@ -14,15 +14,15 @@
 
 ## Course Sections
 
-- Section 01 | [Introduction](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_A1_Introduction)
-- Section 02 | [Immutability](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_B2_Immutability)
-- Section 03 | [Pure Functions](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_C3_Pure_Functions)
-- Section 04 | [Understanding `let`](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_D4_Understanding_let)
-- Section 05 | [Conditionals](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_E5_Conditionals)
+- Section 01 | [Introduction](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_A01_Introduction)
+- Section 02 | [Immutability](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_B02_Immutability)
+- Section 03 | [Pure Functions](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_C03_Pure_Functions)
+- Section 04 | [Understanding `let`](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_D04_Understanding_let)
+- Section 05 | [Conditionals](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_E05_Conditionals)
 - Section 06 | [Recommended Text Editors and IDEs]()
 - Section 07 | [Introduction to Automated Testing - TDD](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_G07_Introduction_to_Automated_Testing_TDD)
 - Section 08 | [The Differences Between True, False, and Truthy/Falsey](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_H08_The_Differences_Between_True_False_and_TruthyFalsey)
-- Section 09 | More on Vectors
+- Section 09 | [More about Vectors](https://github.com/souzafcharles/Clojure-Functional-Programming/tree/main/Section_I09%20_More_about_Vectors)
 - Section 10 | Dynamic Typing and Type Hinting
 - Section 11 | Namespaces, Symbols, and Private Functions
 - Section 12 | Higher-Order Functions
